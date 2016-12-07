@@ -1,1 +1,0 @@
-forward.o: forward.c
